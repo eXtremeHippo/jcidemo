@@ -9,5 +9,9 @@ public class Calculator {
 		return a-b;
 	}
 	
+	public int inverseHalf(int a) {
+		return a*2;
+	}
+	
 }
 
